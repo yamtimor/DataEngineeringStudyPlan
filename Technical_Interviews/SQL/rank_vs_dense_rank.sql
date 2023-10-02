@@ -17,7 +17,7 @@ VALUES
 (6, 'Frank', 80);
 
 -- Query using RANK() and DENSE_RANK()
-SELECT
+ SELECT
     id,
     name,
     score,
